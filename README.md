@@ -26,6 +26,6 @@ conda env create -f environment.yml
 
 ### 3. Activate the environment
 
-```console
+```bash
 conda activate opencv-env
 ```
